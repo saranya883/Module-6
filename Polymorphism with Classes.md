@@ -55,3 +55,6 @@ To create two specific classes — `Beans` and `Mango`. Then, create a **generic
 
 
 ## Result
+Thus , the program has been executed succesfully.
+
+
